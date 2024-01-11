@@ -9,3 +9,7 @@ https://neige68.github.io/try-github-pages/
 docs/ からエクスポートされるようにしてみた。
 
 そうすると docs/index.html が https://neige68.github.io/try-github-pages/ で表示される。
+
+*.md は *.html に変換される。
+
+README.md は index.html に変換される。
